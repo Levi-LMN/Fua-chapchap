@@ -144,7 +144,7 @@ body {
   }
 /* Bottom most container*/
 .background-container {
-  background-image: url('/static/img/backg.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+  background-image: url('static/img/backg.jpg'); /* Replace 'your-image.jpg' with the path to your image */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -194,6 +194,10 @@ body {
   .subscribe-button:hover {
     background-color: #45a049; /* Darker green color on hover */
   }
+
+
+
+
 
 
 
